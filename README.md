@@ -11,6 +11,11 @@ make it easy and clone it with google colab https://colab.research.google.com/ ,
 just from edit notebook settings choose GPU and run the code 
 
 ! git clone git@github.com:AhmedKYoussef/Sign-Language-Digits-pytorch-model.git 
+
+
+
+
+
 and have fun and feel free to discovre the deep learning and pytorch framework.
 
 ### In this repo I used dataset from kaggle that (in data folder) that contain LICENSE check it if you want
